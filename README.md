@@ -23,7 +23,7 @@ Real-time public safety monitoring using CNN-LSTM + MobileNetV2.
 2,674 CCTV clips · 3 threat categories · Apple M2 Max GPU
 
 🗣️ Toxic Comment Classifier
-Binary text classification across 223,000+ online comments.
+Binary text classification across 222,000+ online comments.
 
 AUC 0.968 (Logistic Regression) vs XGBoost — model-problem fit over complexity
 "Which online conversations are becoming harmful at scale?"
