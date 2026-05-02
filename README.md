@@ -1,46 +1,52 @@
 Hi, I'm Minjung Koo (구민정) 👋
 
-I find the story hidden in data — and make sure the right people can act on it.
+I don't start with a model. I start with a question.
 
-I'm a Data Analytics graduate (UTS, May 2026) with a passion for turning complex, messy datasets into decisions that actually matter. I work at the intersection of machine learning, data visualization, and human workflows — building things that people use, not just models that score well on benchmarks.
-Fluent in Korean and English, with hands-on experience delivering insights to non-technical audiences.
+Data Analytics graduate (UTS, May 2026) who works at the intersection of machine learning, visual analytics, and real-world decision-making. I embed myself in problems, explore the data, and build things the people closest to the problem can actually use.
+Fluent in Korean and English — I've communicated findings to clinic staff, student cohorts, and technical peers alike.
 
 🔍 What I Work On
-AreaWhat that looks likeComputer Vision & MLCNN-LSTM pipelines, real-time object detection, multi-class classificationNLP & Text AnalyticsToxic content classification, bilingual AI response evaluationData StorytellingTableau dashboards, visual analytics for 120+ years of historical dataAI EvaluationHuman feedback for large language models (Korean & English)
+AreaWhat that looks likeComputer Vision & MLCNN-LSTM pipelines, real-time threat detection, multi-class classificationNLP & Text AnalyticsToxic content classification, bilingual AI response evaluationVisual AnalyticsTableau dashboards, supply chain analysis, 35-year historical datasetsAI EvaluationHuman feedback for LLMs in Korean & English (Outlier)
 
 📌 Featured Projects
 🔒 CCTV Violence & Weapon Detection
-Real-time safety monitoring system using CNN-LSTM and MobileNetV2.
+Real-time public safety monitoring using CNN-LSTM + MobileNetV2.
 
-97.48% accuracy · F1 Score 0.98 · ROC AUC 0.9987
-Built to answer: "How can we identify threats before harm occurs?"
-Processed 2,674 video clips across 3 threat categories
+97.48% accuracy · F1 0.98 · ROC AUC 0.9987 · Zero false positives
+"How can surveillance systems identify threats before harm occurs?"
+2,674 CCTV clips · 3 threat categories · Apple M2 Max GPU
 
 🗣️ Toxic Comment Classifier
-Multi-label text classification across 22,000+ online comments.
+Binary text classification across 223,000+ online comments.
 
-AUC ~0.97 using TF-IDF + Logistic Regression / XGBoost
-Built to answer: "Which conversations are becoming dangerous, and how fast?"
+AUC 0.968 (Logistic Regression) vs XGBoost — model-problem fit over complexity
+"Which online conversations are becoming harmful at scale?"
+TF-IDF + threshold tuning · error analysis included
 
-🎾 Australian Open: 120 Years of Data
-Visual analytics project exploring patterns across 12 decades of Grand Slam data.
+⚡ Australia Energy Trade Analysis (1989–2024)
+Visual analytics of 35 years of Australian energy import/export data.
 
-Built to answer: "What does 120 years of tennis tell us about how champions are made?"
-Tableau dashboard with multi-dimensional filtering and narrative flow
+Petroleum = 97%+ of energy imports in 2023 — structural vulnerability surfaced
+"Where is the risk in Australia's energy trade — and what does 2029 look like?"
+4 global crises analyzed · 5-year forecast with 95% CI · Tableau
+
+🎾 Australian Open: 120 Years of Champions
+Full history of Grand Slam singles finals, 1905–2025.
+
+"What does 120 years of tennis tell us about how champions are made?"
+30 variables · 15+ visualizations · seeding vs. win rate analysis · Tableau
 
 
 🛠️ Technical Skills
-Languages & Tools: Python · SQL · R · Tableau · KNIME · Excel
-ML Frameworks: TensorFlow · scikit-learn · OpenCV · XGBoost
-Methods: CNNs · LSTM · Random Forest · SVM · TF-IDF · KNN
+Languages: Python · SQL · R
+ML & AI: TensorFlow · scikit-learn · XGBoost · OpenCV · CNN · LSTM · SVM · Random Forest
+Data & Viz: Tableau · KNIME · Excel · Pandas · NumPy · Matplotlib
+Languages (Human): Korean — Native · English — Business Fluent
 
 🌏 About Me
 
-📍 Based in Sydney, Australia · Open to Seoul, South Korea
-🎓 UTS Bachelor of IT — Data Analytics Major · GPA 6.83/7.0 · Dean's List 2025
+📍 Sydney, Australia → Seoul, South Korea
+🎓 UTS Bachelor of IT — Data Analytics · GPA 6.83/7.0 · Dean's List 2025
+🧠 AI Evaluation Contributor @ Outlier — Korean & English LLM assessment
 🤝 Communication Director @ UTS Hiking Club · Peer Mentor @ UTS
-🧠 AI Evaluation Contributor @ Outlier (Korean & English LLM assessment)
-📧 leafd2019@gmail.com · LinkedIn
-
-
-"The goal is not a better model. The goal is a better decision."
+🌐 Portfolio: adella3.github.io
