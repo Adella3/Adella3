@@ -5,8 +5,14 @@ I don't start with a model. I start with a question.
 Data Analytics graduate (UTS, May 2026) who works at the intersection of machine learning, visual analytics, and real-world decision-making. I embed myself in problems, explore the data, and build things the people closest to the problem can actually use.
 Fluent in Korean and English — I've communicated findings to clinic staff, student cohorts, and technical peers alike.
 
-🔍 What I Work On
-AreaWhat that looks likeComputer Vision & MLCNN-LSTM pipelines, real-time threat detection, multi-class classificationNLP & Text AnalyticsToxic content classification, bilingual AI response evaluationVisual AnalyticsTableau dashboards, supply chain analysis, 35-year historical datasetsAI EvaluationHuman feedback for LLMs in Korean & English (Outlier)
+## 🔍 What I Work On
+
+| Area | What that looks like |
+|---|---|
+| **Computer Vision & ML** | CNN-LSTM pipelines, real-time threat detection, multi-class classification |
+| **NLP & Text Analytics** | Toxic content classification, bilingual AI response evaluation |
+| **Visual Analytics** | Tableau dashboards, supply chain analysis, 35-year historical datasets |
+| **AI Evaluation** | Human feedback for LLMs in Korean & English (Outlier) |
 
 📌 Featured Projects
 🔒 CCTV Violence & Weapon Detection
