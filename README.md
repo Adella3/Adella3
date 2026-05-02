@@ -54,7 +54,7 @@ Multi-model ML comparison on Australian weather data using KNIME.
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python · SQL · R  
+**Languages:** Python · SQL · Java
 **ML & AI:** TensorFlow · scikit-learn · XGBoost · OpenCV · CNN · LSTM · SVM · Random Forest  
 **Data & Viz:** Tableau · KNIME · Excel · Pandas · NumPy · Matplotlib  
 **Languages (Human):** Korean — Native · English — Business Fluent
