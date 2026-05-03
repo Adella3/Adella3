@@ -72,6 +72,3 @@ Multi-model ML comparison on Australian weather data using KNIME.
 
 
 
-
-
-*"The goal is not a better model. The goal is a better decision."*
