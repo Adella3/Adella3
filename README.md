@@ -6,7 +6,25 @@ Data Analytics graduate (UTS, May 2026) who works at the intersection of machine
 
 Fluent in **Korean and English** — I've communicated findings to clinic staff, student cohorts, and technical peers alike.
 
+## 🌏 About Me
+
+- 📍 Sydney, Australia → Seoul, South Korea
+- 🎓 UTS Bachelor of IT — Data Analytics · **GPA 6.83/7.0** · Dean's List 2025
+- 🧠 AI Evaluation Contributor @ Outlier — Korean & English LLM assessment
+- 🤝 Communication Director @ UTS Hiking Club · Peer Mentor @ UTS
+- 🌐 Portfolio: [adella3.github.io](https://adella3.github.io)
+
 ---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python · SQL · Java
+**ML & AI:** TensorFlow · scikit-learn · XGBoost · OpenCV · CNN · LSTM · SVM · Random Forest  
+**Data & Viz:** Tableau · KNIME · Excel · Pandas · NumPy · Matplotlib  
+**Languages (Human):** Korean — Native · English — Business Fluent
+
+---
+
 
 ## 🔍 What I Work On
 
@@ -52,23 +70,8 @@ Multi-model ML comparison on Australian weather data using KNIME.
 
 ---
 
-## 🛠️ Technical Skills
 
-**Languages:** Python · SQL · Java
-**ML & AI:** TensorFlow · scikit-learn · XGBoost · OpenCV · CNN · LSTM · SVM · Random Forest  
-**Data & Viz:** Tableau · KNIME · Excel · Pandas · NumPy · Matplotlib  
-**Languages (Human):** Korean — Native · English — Business Fluent
 
----
 
-## 🌏 About Me
-
-- 📍 Sydney, Australia → Seoul, South Korea
-- 🎓 UTS Bachelor of IT — Data Analytics · **GPA 6.83/7.0** · Dean's List 2025
-- 🧠 AI Evaluation Contributor @ Outlier — Korean & English LLM assessment
-- 🤝 Communication Director @ UTS Hiking Club · Peer Mentor @ UTS
-- 🌐 Portfolio: [adella3.github.io](https://adella3.github.io)
-
----
 
 *"The goal is not a better model. The goal is a better decision."*
