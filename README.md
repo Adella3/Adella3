@@ -19,7 +19,8 @@ Fluent in **Korean and English** — I've communicated findings to clinic staff,
 ## 🛠️ Technical Skills
 
 **Languages:** Python · SQL · Java</br>
-**ML & AI:** TensorFlow · scikit-learn · XGBoost · OpenCV · CNN · LSTM · SVM · Random Forest  
+**ML & AI:** TensorFlow · scikit-learn · XGBoost · OpenCV </br>
+** Models:** CNN · LSTM · SVM · Random Forest  
 **Data & Viz:** Tableau · KNIME · Excel · Pandas · NumPy · Matplotlib  
 **Languages (Human):** Korean — Native · English — Business Fluent
 
