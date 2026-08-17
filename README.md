@@ -2,7 +2,7 @@
 
 > ***I don't start with a model. I start with a question.***
 
-Data Analytics graduate (UTS, May 2026) who works at the intersection of machine learning, visual analytics, and real-world decision-making. I embed myself in problems, explore the data, and build things the people closest to the problem can actually use.
+Data Analytics graduate (UTS, June 2026) who works at the intersection of machine learning, visual analytics, and real-world decision-making. I embed myself in problems, explore the data, and build things the people closest to the problem can actually use.
 
 Fluent in **Korean and English** — I've communicated findings to clinic staff, student cohorts, and technical peers alike.
 
