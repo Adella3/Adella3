@@ -9,7 +9,7 @@ Fluent in **Korean and English** — I've communicated findings to clinic staff,
 ## 🌏 About Me
 
 - 📍 Sydney, Australia → Seoul, South Korea
-- 🎓 UTS Bachelor of IT — Data Analytics · **GPA 6.81/7.0** · **Dean's List 2025/2026
+- 🎓 UTS Bachelor of IT — Data Analytics · **GPA 6.81/7.0** · **Dean's List 2025/2026**
 - 🧠 AI Evaluation Contributor @ Outlier — Korean & English LLM assessment
 - 🤝 Communication Director @ UTS Hiking Club · Peer Mentor @ UTS
 - 🌐 Portfolio: [adella3.github.io](https://adella3.github.io)
