@@ -4,13 +4,13 @@
 
 Data Analytics graduate (UTS, June 2026) who works at the intersection of machine learning, visual analytics, and real-world decision-making. I embed myself in problems, explore the data, and build things the people closest to the problem can actually use.
 
-Fluent in **Korean and English** — I've communicated findings to clinic staff, student cohorts, and technical peers alike.
+Fluent in **Korean and English**, I've communicated findings to clinic staff, student cohorts, and technical peers alike.
 
 ## 🌏 About Me
 
 - 📍 Sydney, Australia → Seoul, South Korea
-- 🎓 UTS Bachelor of IT — Data Analytics · **GPA 6.81/7.0** · **Dean's List 2025/2026**
-- 🧠 AI Evaluation Contributor @ Outlier — Korean & English LLM assessment
+- 🎓 UTS Bachelor of IT (Data Analytics) · **GPA 6.81/7.0** · **Dean's List 2025/2026**
+- 🧠 AI Evaluation Contributor @ Outlier (Korean & English LLM assessment)
 - 🤝 Communication Director @ UTS Hiking Club · Peer Mentor @ UTS
 - 🌐 Portfolio: [adella3.github.io](https://adella3.github.io)
 
@@ -22,7 +22,7 @@ Fluent in **Korean and English** — I've communicated findings to clinic staff,
 **ML & AI:** TensorFlow · scikit-learn · XGBoost · OpenCV </br>
 **Models:** CNN · LSTM · SVM · Random Forest  
 **Data & Viz:** Tableau · KNIME · Excel · Pandas · NumPy · Matplotlib  
-**Languages (Human):** Korean — Native · English — Business Fluent
+**Languages (Human):** Korean (Native) · English (Business Fluent)
 
 ---
 
@@ -40,6 +40,18 @@ Fluent in **Korean and English** — I've communicated findings to clinic staff,
 
 ## 📌 Featured Projects
 
+### 📰 [Financial News Classification: Capstone](https://github.com/Adella3/Project-30-Automated-Multi-level-Information-for-Financial-Intelligence-at-UTS)
+Multi-level (Macro / Entity / Industry) classification of 16,513 financial news articles.
+- LR vs XGBoost vs fine-tuned FinBERT, **XGBoost selected** for class balance
+- *"Can news be routed automatically, reliably enough for an analyst's workflow?"*
+- Project & experiment lead (5-person team) · human-in-the-loop review design
+
+### 🏭 [BOSCH Plasma Etch: Process Data Analysis & Modeling](https://github.com/Adella3/bosch-plasma-etch-analysis)
+Predicting wafer etch depth from equipment sensor data in a BOSCH etch process (virtual metrology).
+- **R² 0.82** on unseen lots (XGBoost) · lot-aware validation to prevent leakage
+- *"Which equipment signals should engineers check first?"*
+- SHAP troubleshooting · 2² DOE proposal to separate indicators from causes
+
 ### 🔒 [CCTV Violence & Weapon Detection](https://github.com/Adella3/cctv-violence-detection)
 Real-time public safety monitoring using CNN-LSTM + MobileNetV2.
 - **97.48% accuracy** · F1 0.98 · ROC AUC 0.9987 · **Zero false positives**
@@ -48,14 +60,14 @@ Real-time public safety monitoring using CNN-LSTM + MobileNetV2.
 
 ### 🗣️ [Toxic Comment Classifier](https://github.com/Adella3/toxic-comment-classifier)
 Binary text classification across 223,000+ online comments.
-- **AUC 0.968** (Logistic Regression) vs XGBoost — model-problem fit over complexity
+- **AUC 0.968** (Logistic Regression) vs XGBoost, model-problem fit over complexity
 - *"Which online conversations are becoming harmful at scale?"*
 - TF-IDF + threshold tuning · error analysis included
 
 ### ⚡ [Australia Energy Trade Analysis (1989–2024)](https://github.com/Adella3/australia-energy-trade)
 Visual analytics of 35 years of Australian energy import/export data.
-- Petroleum = **97%+ of energy imports** in 2023 — structural vulnerability surfaced
-- *"Where is the risk in Australia's energy trade — and what does 2029 look like?"*
+- Petroleum = **97%+ of energy imports** in 2023, structural vulnerability surfaced
+- *"Where is the risk in Australia's energy trade, and what does 2029 look like?"*
 - 4 global crises analyzed · 5-year forecast with 95% CI · Tableau
 
 ### 🎾 [Australian Open: 120 Years of Champions](https://github.com/Adella3/aus-open-analysis)
@@ -65,9 +77,13 @@ Full history of Grand Slam singles finals, 1905–2025.
 
 ### 🌧️ [Weather Prediction: RainTomorrow Classifier](https://github.com/Adella3/knime-weather-prediction)
 Multi-model ML comparison on Australian weather data using KNIME.
-- **Random Forest best** — Accuracy 84.59% · Recall 0.964 · AUC 0.8615
-- *"Which model best handles the complexity of weather prediction — and why?"*
+- **Random Forest best**: Accuracy 84.59% · Recall 0.964 · AUC 0.8615
+- *"Which model best handles the complexity of weather prediction, and why?"*
 - 6 models compared (DT · KNN · RF · SVM · NN · Bagging) · K-Fold CV · Kaggle 0.72473
+
+### 💼 [Business & IT Strategy Case Studies](https://github.com/Adella3/business-case-studies)
+SLA platform selection, retail recommendation strategy, stakeholder & systems analysis.
+- BTOPP · vendor cost comparison · rollout roadmap · power/interest grid
 
 ---
 
