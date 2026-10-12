@@ -54,9 +54,9 @@ Predicting wafer etch depth from equipment sensor data in a BOSCH etch process (
 
 ### 🔒 [CCTV Violence & Weapon Detection](https://github.com/Adella3/cctv-violence-detection)
 Real-time public safety monitoring using CNN-LSTM + MobileNetV2.
-- **97.48% accuracy** · F1 0.98 · ROC AUC 0.9987 · **Zero false positives**
+- **97.48% accuracy** · weighted F1 0.975 · ROC AUC 0.9987 · **zero false positives**
 - *"How can surveillance systems identify threats before harm occurs?"*
-- 2,674 CCTV clips · 3 threat categories · Apple M2 Max GPU
+- 2,674 CCTV clips (1,949 after filtering) · 3 classes merged into binary · Apple M2 Max GPU
 
 ### 🗣️ [Toxic Comment Classifier](https://github.com/Adella3/toxic-comment-classifier)
 Binary text classification across 223,000+ online comments.
